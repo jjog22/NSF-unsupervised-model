@@ -21,4 +21,5 @@ the results, to make the formation of clusters and similarity with the original 
 - In later versions we can include another techniques and optimize the volume of words with the goal
 of getting better results and clustering of the documents in categories (not existent now) and this
 we call it like pseudo-categories (with the more representative words in a cluster)
+- Of course we need to include in the definition of the best number of clusters known techniques like ELBOW 
 ### I would make functions and pipelines of this code but my time wasn't enough to spend in better coding and testing another techniques for comparison
